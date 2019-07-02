@@ -1,0 +1,20 @@
+
+---------- V2Ray 二维码链接 适用于 V2RayNG v0.4.1+ / Kitsunebi -------------
+
+[96mhttps://233boy.github.io/tools/qr.html#vmess://ewoidiI6ICIyIiwKInBzIjogIjIzM3YyLmNvbV93d3cubWdvbGVsZS50ayIsCiJhZGQiOiAid3d3Lm1nb2xlbGUudGsiLAoicG9ydCI6ICI0NDMiLAoiaWQiOiAiNGI4YTI3ODMtYWZkNi00MzIzLWIzNDMtNWMyMzk1NzAzMGYyIiwKImFpZCI6ICIyMzMiLAoibmV0IjogIndzIiwKInR5cGUiOiAibm9uZSIsCiJob3N0IjogInd3dy5tZ29sZWxlLnRrIiwKInBhdGgiOiAiLyIsCiJ0bHMiOiAidGxzIgp9Cg==[0m
+
+
+[91m 友情提醒: 请务必核对扫码结果 (V2RayNG 除外) [0m
+
+
+ V2Ray 客户端使用教程: https://233v2.com/post/4/
+
+
+https://233boy.github.io/tools/qr.html#vmess://ewoidiI6ICIyIiwKInBzIjogIjIzM3YyLmNvbV93d3cubWdvbGVsZS50ayIsCiJhZGQiOiAid3d3Lm1nb2xlbGUudGsiLAoicG9ydCI6ICI0NDMiLAoiaWQiOiAiNGI4YTI3ODMtYWZkNi00MzIzLWIzNDMtNWMyMzk1NzAzMGYyIiwKImFpZCI6ICIyMzMiLAoibmV0IjogIndzIiwKInR5cGUiOiAibm9uZSIsCiJob3N0IjogInd3dy5tZ29sZWxlLnRrIiwKInBhdGgiOiAiLyIsCiJ0bHMiOiAidGxzIgp9Cg==
+
+
+
+
+
+
+
